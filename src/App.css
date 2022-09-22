@@ -1,4 +1,11 @@
 
+.card{
+  width:18rem;
+}
+
+.tdl-input{
+  width: 18rem;
+}
 
 #footer {
   position:fixed;
